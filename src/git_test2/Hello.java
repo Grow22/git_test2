@@ -1,7 +1,7 @@
 package git_test2;
 
 public class Hello {
-	String message = "안녕하세요222g22it2";
+	String message = "안녕하세요222g22iadasdasdasdast2";
 
 
 	
